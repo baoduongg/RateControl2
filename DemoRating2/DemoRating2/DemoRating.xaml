@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoRating2.DemoRating"
+             xmlns:local="clr-namespace:DemoRating2">
+    <ContentPage.Content>
+        <StackLayout>
+          
+            <StackLayout 
+                         Orientation="Horizontal"
+                         VerticalOptions="CenterAndExpand"
+                         HorizontalOptions="Start" 
+                         x:Name="stackstar">
+                
+            </StackLayout>
+        
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
